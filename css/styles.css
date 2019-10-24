@@ -1,0 +1,25 @@
+.headers {
+  text-align: center;
+  color: red;
+}
+
+.headers2 {
+  font-style: bold;
+  text-align: center;
+  color: purple;
+}
+
+.aboutme {
+  font-style: oblique;
+  color: pink;
+}
+
+
+.bio {
+  color: blue;
+}
+
+.important {
+  color: red;
+  font-style: oblique;
+}
